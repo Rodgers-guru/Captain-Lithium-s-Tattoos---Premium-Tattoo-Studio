@@ -127,7 +127,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 60px 20px;
-    background: linear-gradient(135deg, #0d7377 0%, #14919b 100%);
+    background: black;
     color: white;
     position: relative;
     overflow: hidden;
@@ -649,3 +649,4 @@ section {
     }
 
 }
+
