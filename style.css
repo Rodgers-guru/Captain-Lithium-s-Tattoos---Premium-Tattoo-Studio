@@ -321,7 +321,7 @@ section {
 
 /* ==================== SERVICES SECTION ==================== */
 .services {
-    background:darkgray;
+    background:black;
 }
 .service-image {
     position: absolute;
@@ -397,7 +397,7 @@ section {
 
 /* ==================== PORTFOLIO SECTION ==================== */
 .portfolio {
-    background: darkgray;
+    background: black;
 }
 
 .portfolio-grid {
@@ -445,7 +445,7 @@ section {
 
 /* ==================== CONTACT SECTION ==================== */
 .contact {
-    background: darkgrey;
+    background: black;
 }
 
 .contact-content {
@@ -647,4 +647,5 @@ section {
     .service-card {
         padding: 25px;
     }
+
 }
